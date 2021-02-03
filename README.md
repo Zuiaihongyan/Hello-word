@@ -1,2 +1,2 @@
 # Hello-word
-Js
+Jast a repository!
