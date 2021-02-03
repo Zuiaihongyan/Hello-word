@@ -1,2 +1,3 @@
 # Hello-word
-Jast a repository!
+Hi friends!
+Hope everyone can make progress together!
